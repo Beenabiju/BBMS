@@ -1,0 +1,39 @@
+
+ .btn-circle.btn-sm {
+          width: 55px;
+            height: 55px;
+            padding: 11px 14px;
+            border-radius: 30px;
+            font-size: 10px;
+          
+            float: left;
+        }
+/*
+bloodbank complete
+search
+insert
+delete
+update
+access
+
+donor
+insert(check age above 18 and check weight above 45)
+delete
+update
+
+Recipeint
+delete
+update
+insert
+
+Blood booking
+insert
+update
+delete
+
+donor booking
+insert 
+update
+delete
+
+*/
